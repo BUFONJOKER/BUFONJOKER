@@ -29,9 +29,3 @@
   <li>📘 Reading machine learning books and research papers</li>
   <li>🎓 Taking courses to strengthen my understanding of AI and data-driven systems</li>
 </ul>
-
-<h3 align="center">Let's Connect!</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/abdul-rehman-javaid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:abdulrehmanjavaid@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
