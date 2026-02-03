@@ -42,7 +42,7 @@
 | **100days-deeplearning-course-campusx** | CampusX 100 Days DL | ANNs, CNNs, Transfer Learning, RNNs, Transformers | [View](https://github.com/BUFONJOKER/100days-deeplearning-course-campusx) |
 | **nlp-course-campusx** | CampusX NLP Course | Text Processing, Embeddings, Transformers, NLP Tasks | [View](https://github.com/BUFONJOKER/nlp-course-campusx) |
 | **huggingface-llm-course** | HuggingFace Course | LLM Fine-tuning, Prompt Engineering, Model Training | [View](https://github.com/BUFONJOKER/huggingface-llm-course) |
-| **Machine-Learning-Projects** | Multiple Sources | End-to-end ML pipelines, Real datasets, Kaggle projects | [View](https://github.com/BUFONJOKER/Machine-Learning-Projects) |
+| **deep-learning-projects** | Multiple Courses & Playlists | Deep Learning Models, Computer Vision, Advanced Architectures | [View](https://github.com/BUFONJOKER/deep-learning-projects) |
 
 ---
 
