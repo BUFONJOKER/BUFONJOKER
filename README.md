@@ -32,15 +32,17 @@
 
 ---
 
-## 📦 Key Projects
+## 📦 Learning & Practice Repositories
 
-| Project | Focus | Link |
-|---------|-------|------|
-| **PyTorch Deep Learning** | 14+ notebooks: Autograd, CNNs, RNNs, LSTMs | [practical-deep-learning-using-pytorch-campus-x](https://github.com/BUFONJOKER/practical-deep-learning-using-pytorch-campus-x) |
-| **100 Days Deep Learning** | ANNs, CNNs, RNNs, Transformers | [100days-deeplearning-course-campusx](https://github.com/BUFONJOKER/100days-deeplearning-course-campusx) |
-| **NLP Course** | Language processing & text tasks | [nlp-course-campusx](https://github.com/BUFONJOKER/nlp-course-campusx) |
-| **LLM with HuggingFace** | Fine-tuning & prompt engineering | [huggingface-llm-course](https://github.com/BUFONJOKER/huggingface-llm-course) |
-| **ML Projects** | Real-world implementations | [Machine-Learning-Projects](https://github.com/BUFONJOKER/Machine-Learning-Projects) |
+**From Courses & YouTube Playlists:**
+
+| Repository | Course/Playlist | Topics | Link |
+|-----------|--------|--------|------|
+| **practical-deep-learning-using-pytorch-campus-x** | CampusX PyTorch Course | Autograd, Training Pipelines, nn.Module, CNNs, RNNs, LSTMs, GPU Optimization, Optuna | [View](https://github.com/BUFONJOKER/practical-deep-learning-using-pytorch-campus-x) |
+| **100days-deeplearning-course-campusx** | CampusX 100 Days DL | ANNs, CNNs, Transfer Learning, RNNs, Transformers | [View](https://github.com/BUFONJOKER/100days-deeplearning-course-campusx) |
+| **nlp-course-campusx** | CampusX NLP Course | Text Processing, Embeddings, Transformers, NLP Tasks | [View](https://github.com/BUFONJOKER/nlp-course-campusx) |
+| **huggingface-llm-course** | HuggingFace Course | LLM Fine-tuning, Prompt Engineering, Model Training | [View](https://github.com/BUFONJOKER/huggingface-llm-course) |
+| **Machine-Learning-Projects** | Multiple Sources | End-to-end ML pipelines, Real datasets, Kaggle projects | [View](https://github.com/BUFONJOKER/Machine-Learning-Projects) |
 
 ---
 
