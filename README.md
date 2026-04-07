@@ -1,20 +1,36 @@
-<h1 align="center">Hi 👋, I'm Abdul Rehman Javaid</h1>
-<h3 align="center">Data Science & Machine Learning Practitioner | Deep Learning Enthusiast 🚀</h3>
+<h1 align="center">BUFONJOKER Projects Hub</h1>
+<h3 align="center">Featured AI projects and a focused learning path for modern LLM app development</h3>
 
 ---
 
-## About Me
-- 🌱 Mastering **PyTorch**, **TensorFlow**, **NLP**, and **LLMs**
-- 💼 Data Science Intern
-- 🎯 Building intelligent systems that solve real-world problems
-- 📚 30+ repositories | 100+ hours of coding & experimentation
+## 🚀 Featured Projects
+
+| Project | Title | Description | Link |
+|---------|-------|-------------|------|
+| **blog-writing-agent** | Blog Writing Agent | An AI-powered writing project for drafting, structuring, and refining blog content with an agentic workflow. | [View Project](https://github.com/BUFONJOKER/blog-writing-agent) |
 
 ---
 
-## 🎓 Learning Areas
-**Deep Learning:** PyTorch • TensorFlow • Transformers • CNNs • RNNs/LSTMs • Hyperparameter Tuning (Optuna)  
-**ML/AI:** Supervised & Unsupervised Learning • Feature Engineering • Transfer Learning • Computer Vision • NLP  
-**Tools:** Data Analysis • EDA • Model Evaluation • End-to-end Pipelines • GPU Optimization
+## 📚 Priority Learning
+
+My current learning focus is on building LLM-based products and agentic systems with practical deployment patterns.
+
+**Core areas:** LLMs • Agents • LangChain • LangGraph • MCP Servers • FastMCP • FastAPI • Next.js for LLM app UIs
+
+---
+
+## 📦 Learning & Practice Repositories
+
+These repositories support ongoing experimentation in deep learning, NLP, and LLM workflows.
+
+| Repository | Course/Playlist | Topics | Link |
+|-----------|----------------|--------|------|
+| **langchain-course-campusx** | CampusX LangChain Course | LangChain fundamentals, chains, tools, retrieval workflows, and LLM application patterns | [View](https://github.com/BUFONJOKER/langchain-course-campusx) |
+| **langgraph-course** | LangGraph Course | Graph-based agent workflows, state management, and structured multi-step LLM systems | [View](https://github.com/BUFONJOKER/langgraph-course) |
+| **mcp-course** | MCP Course | MCP server concepts, tool exposure, and integration patterns for agentic apps | [View](https://github.com/BUFONJOKER/mcp-course) |
+| **practical-deep-learning-using-pytorch-campus-x** | CampusX PyTorch Course | Autograd, Training Pipelines, nn.Module, CNNs, RNNs, LSTMs, GPU Optimization, Optuna | [View](https://github.com/BUFONJOKER/practical-deep-learning-using-pytorch-campus-x) |
+| **100days-deeplearning-course-campusx** | CampusX 100 Days DL | ANNs, CNNs, Transfer Learning, RNNs, Transformers | [View](https://github.com/BUFONJOKER/100days-deeplearning-course-campusx) |
+| **nlp-course-campusx** | CampusX NLP Course | Text Processing, Embeddings, Transformers, NLP Tasks | [View](https://github.com/BUFONJOKER/nlp-course-campusx) |
 
 ---
 
@@ -32,30 +48,33 @@
 
 ---
 
-## 📦 Learning & Practice Repositories
+## About Me
+- 🌱 Building AI projects while learning **LLMs**, **agents**, **LangChain**, **LangGraph**, and **MCP**
+- 💼 Focused on shipping practical AI apps with **FastAPI** and **Next.js**
+- 🎯 Turning ideas into useful agentic workflows and LLM-based products
+- 📚 Student from Pakistan with 90 public repositories and a strong hands-on build habit
 
-**From Courses & YouTube Playlists:**
+---
 
-| Repository | Course/Playlist | Topics | Link |
-|-----------|--------|--------|------|
-| **practical-deep-learning-using-pytorch-campus-x** | CampusX PyTorch Course | Autograd, Training Pipelines, nn.Module, CNNs, RNNs, LSTMs, GPU Optimization, Optuna | [View](https://github.com/BUFONJOKER/practical-deep-learning-using-pytorch-campus-x) |
-| **100days-deeplearning-course-campusx** | CampusX 100 Days DL | ANNs, CNNs, Transfer Learning, RNNs, Transformers | [View](https://github.com/BUFONJOKER/100days-deeplearning-course-campusx) |
-| **nlp-course-campusx** | CampusX NLP Course | Text Processing, Embeddings, Transformers, NLP Tasks | [View](https://github.com/BUFONJOKER/nlp-course-campusx) |
-| **huggingface-llm-course** | HuggingFace Course | LLM Fine-tuning, Prompt Engineering, Model Training | [View](https://github.com/BUFONJOKER/huggingface-llm-course) |
-| **deep-learning-projects** | Multiple Courses & Playlists | Deep Learning Models, Computer Vision, Advanced Architectures | [View](https://github.com/BUFONJOKER/deep-learning-projects) |
+## 🎓 Learning Areas
+**LLM Systems:** LLMs • Prompting • RAG • Agents • Tool use • Multi-step workflows
+**Frameworks:** LangChain • LangGraph • MCP Servers • FastMCP • FastAPI
+**UI / App Layer:** Next.js • React • API integration • agentic app interfaces
+**Applied ML:** PyTorch • TensorFlow • NLP • Computer Vision • Evaluation pipelines
 
 ---
 
 ## 🎯 Current Focus
-🔥 **PyTorch mastery** • 🤖 **Transformers & LLMs** • 🎛️ **Hyperparameter tuning** • 🔁 **Transfer learning**
+🔥 **LLMs & agents** • 🤖 **LangChain & LangGraph** • 🧩 **MCP servers & FastMCP** • 🌐 **FastAPI + Next.js for LLM apps**
 
 ---
 
 ## 📊 Stats
-- 🏆 30+ learning repositories
-- 📓 14+ active PyTorch notebooks
-- ⏱️ 100+ hours of hands-on practice
-- 🎓 Multiple courses & certifications
+- 🏆 90 public repositories
+- 📈 553 contributions in the last year
+- 👥 1 follower • 0 following
+- ⚙️ 40 commits in April 2026 across 2 repositories
+- 🤖 LLM, agent, and app-building work now prioritized
 
 ---
 
@@ -66,6 +85,6 @@
 
 <div align="center">
 
-**Keep Learning, Keep Growing 🚀** | *Last Updated: February 2026*
+**Keep Learning, Keep Growing 🚀** | *Last Updated: April 2026*
 
 </div>
