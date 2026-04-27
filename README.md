@@ -8,6 +8,7 @@
 | Project | Title | Description | Link |
 |---------|-------|-------------|------|
 | **blog-writing-agent** | Blog Writing Agent | An AI-powered writing project for drafting, structuring, and refining blog content with an agentic workflow. | [View Project](https://github.com/BUFONJOKER/blog-writing-agent) |
+| **ai-product-launch-intelligence-agent** | AI Product Launch Intelligence Agent | A production-grade, multi-agent AI platform that analyzes product launches using coordinated agents for competitor insights, market sentiment, and performance metrics—built with LangGraph, FastAPI, and Next.js with real-time streaming and persistent intelligence. | [View Project](https://github.com/BUFONJOKER/ai-product-launch-intelligence-agent) |
 
 ---
 
