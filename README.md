@@ -5,11 +5,12 @@
 
 ## 🚀 Featured Projects
 
-| Project | Title | Description | Link |
-|---------|-------|-------------|------|
-| **blog-writing-agent** | Blog Writing Agent | An AI-powered writing project for drafting, structuring, and refining blog content with an agentic workflow. | [View Project](https://github.com/BUFONJOKER/blog-writing-agent) |
-| **ai-product-launch-intelligence-agent** | AI Product Launch Intelligence Agent | A production-grade, multi-agent AI platform that analyzes product launches using coordinated agents for competitor insights, market sentiment, and performance metrics—built with LangGraph, FastAPI, and Next.js with real-time streaming and persistent intelligence. | [View Project](https://github.com/BUFONJOKER/ai-product-launch-intelligence-agent) |
-| **multi-agent-corporate-governance-document-analytics-engine** | Multi-Agent Corporate Governance & Document Analytics Engine | Multi-Agent Corporate Governance & Document Analytics Engine is an enterprise-grade AI platform that ingests financial, legal, ESG, and compliance documents (PDF, Excel, CSV) and uses a LangGraph-powered multi-agent architecture to extract, verify, analyze, and generate actionable insights. The system combines hybrid RAG, vector search, background job processing, and autonomous verification agents to deliver trustworthy reports with source-backed evidence, audit trails, and real-time agent workflow monitoring through a modern Next.js dashboard. | [View Project](https://github.com/BUFONJOKER/multi-agent-corporate-governance-document-analytics-engine) |
+| Project | Title | Description | Status | Link |
+|---------|-------|-------------|--------|------|
+| **blog-writing-agent** | Blog Writing Agent | An AI-powered writing project for drafting, structuring, and refining blog content with an agentic workflow. | Completed | [View Project](https://github.com/BUFONJOKER/blog-writing-agent) |
+| **ai-product-launch-intelligence-agent** | AI Product Launch Intelligence Agent | A production-grade, multi-agent AI platform that analyzes product launches using coordinated agents for competitor insights, market sentiment, and performance metrics—built with LangGraph, FastAPI, and Next.js with real-time streaming and persistent intelligence. | Completed | [View Project](https://github.com/BUFONJOKER/ai-product-launch-intelligence-agent) |
+| **multi-agent-corporate-governance-document-analytics-engine** | Multi-Agent Corporate Governance & Document Analytics Engine | Multi-Agent Corporate Governance & Document Analytics Engine is an enterprise-grade AI platform that ingests financial, legal, ESG, and compliance documents (PDF, Excel, CSV) and uses a LangGraph-powered multi-agent architecture to extract, verify, analyze, and generate actionable insights. The system combines hybrid RAG, vector search, background job processing, and autonomous verification agents to deliver trustworthy reports with source-backed evidence, audit trails, and real-time agent workflow monitoring through a modern Next.js dashboard. | In Progress | [View Project](https://github.com/BUFONJOKER/multi-agent-corporate-governance-document-analytics-engine) |
+| **study-notes-manager** | Study Notes Manager | An AI-powered app for creating, updating, deleting, and reading notes, with quiz generation based on note content. | In Progress | [View Project](https://github.com/BUFONJOKER/study-notes-manager) |
 
 ---
 
